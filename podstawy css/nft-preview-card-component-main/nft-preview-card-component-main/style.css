@@ -1,0 +1,51 @@
+/* 
+
+- Soft blue: hsl(215, 51%, 70%)
+- Cyan: hsl(178, 100%, 50%)
+
+### Neutral
+
+- Very dark blue (main BG): hsl(217, 54%, 11%)
+- Very dark blue (card BG): hsl(216, 50%, 16%)
+- Very dark blue (line): hsl(215, 32%, 27%)
+- White: hsl(0, 0%, 100%) */
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: rebeccapurple);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+
+}
+
+.wrapper {
+background-color: rgb(26, 26, 97);
+width: 380px;
+min-height: 600px;
+box-shadow: 0px 20px 65px 1px black;
+padding: 25px;
+
+}
+
+.wrapperImage {
+width: 100%;
+border-radius: 10px;
+
+}
+
+.wrapperTitle {
+color:white;
+
+
+}
+
+w
